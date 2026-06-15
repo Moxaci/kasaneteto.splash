@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Moxaci"
+            }
+        ],
+        "Description": "Pantalla de bienvenida animada de Kasane Teto para Nyarch Linux / KDE Plasma",
+        "Id": "kasaneteto.splash",
+        "Name": "Kasane Teto Splash",
+        "Version": "1.0",
+        "Website": "https://github.com/Moxaci/kasaneteto.splash"
+    },
+    "X-KDE-ServiceTypes": [
+        "Plasma/LookAndFeel"
+    ]
+}
