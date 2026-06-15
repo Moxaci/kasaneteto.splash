@@ -14,4 +14,4 @@ This project was made possible thanks to the amazing work of the following creat
 
 1. Clone this repository using your terminal:
    ```bash
-   git clone git clone https://github.com/Moxaci/kasaneteto.splash.git
+   git clone https://github.com/Moxaci/kasaneteto.splash.git
