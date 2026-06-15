@@ -9,9 +9,3 @@ This project was made possible thanks to the amazing work of the following creat
 * **Animation (GIF):** Extracted from the original music video **"おちゃめ機能 -Full ver.- / 重音テトSV"** created by the YouTube channel **にす (Nisu)**. You can watch the original video [here](https://youtu.be/uvxoNlMqilg).
 * **Background Image:** Created by the artist **drawingkhaganate01**. You can check out their art profile on [Alpha Coders](https://alphacoders.com/users/profile/228999/drawingkhaganate01).
 * **Development & Adaptation:** Maintained and packaged by **Moxaci** for the Linux community.
-
-## Manual Installation
-
-1. Clone this repository using your terminal:
-   ```bash
-   git clone [https://github.com/Moxaci/kasaneteto.splash.git](https://github.com/Moxaci/kasaneteto.splash.git)
